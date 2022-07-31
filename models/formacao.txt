@@ -1,0 +1,4 @@
+saber SQL
+noções de node.js
+criação de branches
+manipulação de dados com git e github
